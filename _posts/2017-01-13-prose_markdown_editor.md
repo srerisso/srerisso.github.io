@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Prose io, a very resourceful markdown editor"
+date: 2017-01-13
 ---
 ## Prose.io
 Un editor muy útil para poder editar Markdown directamente en github. Empiezo a utilizarlo desde ya.
