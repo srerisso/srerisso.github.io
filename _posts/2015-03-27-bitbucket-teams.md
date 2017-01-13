@@ -14,6 +14,6 @@ Para crear un *Team*, s&oacute;lo tienes que acceder al men&uacute; *"Teams"* en
 
 Luego puedes crear repositorios o añadir ya existentes. Este &uacute;ltimo paso es un poco lioso, tiene truco.
 
-#####Añadir un repositorio que ya existe en tu cuenta de BitBucket.
+### Añadir un repositorio que ya existe en tu cuenta de BitBucket.
 
 Truco: Es un Transfer de tu repositorio, pero indicando el nombre del Team que hayas creado en la caja donde te pide el Username

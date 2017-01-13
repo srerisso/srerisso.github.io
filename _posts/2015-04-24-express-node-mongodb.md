@@ -7,7 +7,7 @@ tags: tutorials
 
 ---
 
-###Apuntar:
+### Apuntar:
 Debo aprender estas 3 tecnologías, que tienen buen pinta.
 
 1. [Mongodb](https://www.mongodb.org/)
@@ -22,4 +22,4 @@ Algunos recursos útiles para aprender sobre el tema.
 1. [Egghead.io First API with Nodejs, express and mongodb](https://egghead.io/lessons/nodejs-first-api-with-node-js-express-and-mongodb)
 2. [Mean.io](http://mean.io)
 
-![Mean io logo](http://mean.io/system/assets/img/logos/meanlogo.png)
+![Mean io logo](/img/meanlogo.png)

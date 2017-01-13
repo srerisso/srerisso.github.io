@@ -8,7 +8,7 @@ Just trying to kickstart my movie list app [La Lista Noc][lalistanoclink], and r
 
 So, if you want to check it out, you can just view it here in my github page.
 
---
+-- -- --
 
 Estoy arrancando mi app [La Lista Noc][lalistanoclink] para listar las pelis que vamos viendo este año, y de paso refrescar mis conocimientos de Ruby y de Rails. Estoy ahora mismo con este interesante tutorial de Mackenzie Child,  ["How to build a movie review app in Rails 4"][youtubelink].
 

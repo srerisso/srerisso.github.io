@@ -7,7 +7,7 @@ tags: frameworks, simple
 
 ---
 
-###Wee
+## Wee
 
 [Wee](https://www.weepower.com/) es un framework de esos sencillos que permite montar una estructura web de manera rápida y simple.
 

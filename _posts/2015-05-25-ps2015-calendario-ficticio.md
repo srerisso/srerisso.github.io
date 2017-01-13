@@ -9,14 +9,14 @@ tags:
 
 Mi agenda ficticia para este Primavera Sound 2015
 
-###Miércoles 27/05
+## Miércoles 27/05
 
 | Grupo         | Escenario           	| Hora  |
 | ------------- |:-------------: | -----:|
 | Christina Rosenvinge      	| ATP	| 19:00-19:45 |
 
 
-###Jueves 28/05 :
+## Jueves 28/05 :
 
 
 | Grupo         | Escenario           	| Hora  |
@@ -31,7 +31,7 @@ Mi agenda ficticia para este Primavera Sound 2015
 | The Black Keys 	| Primavera			| 23:45-01:15 |
 
 
-###Viernes 29/05 :
+## Viernes 29/05 :
 
 
 | Grupo         | Escenario           	| Hora  |
@@ -47,7 +47,7 @@ Mi agenda ficticia para este Primavera Sound 2015
 | alt-J      	| Heineken 	| 01:30-02:45 |
 
 
-###Sábado 30/05 :
+## Sábado 30/05 :
 
 
 | Grupo         | Escenario           	| Hora  |

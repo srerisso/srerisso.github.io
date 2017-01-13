@@ -7,7 +7,7 @@ tags:
 
 ---
 
-###La muerte del diseño web
+## La muerte del diseño web
 
 El diseño web está muerto como disciplina?.
 
